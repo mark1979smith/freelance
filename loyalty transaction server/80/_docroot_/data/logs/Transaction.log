@@ -1,0 +1,55 @@
+2014-07-04T16:42:18+01:00 DEBUG (7): /service/transaction/define?data[Header][docno]=test1&data[Header][storeid]=33&data[Header][cashier]=cequity&data[Header][customerid]=9&data[Header][datetime]=12%2F08%2F2013+20%3A35&data[Header][terminal]=T101&data[Header][mobileno]=8790523012&data[Header][redeempoints]=0&data[Header][otp]=&data[Header][Type]=sales&data[Items][0][sku]=3596651891236&data[Items][0][quantity]=1&data[Items][1][sku]=3596651661914&data[Items][1][quantity]=1&data[Tenders][0][paymentmode]=cod&data[Tenders][0][amount]=1199&data[Tenders][1][paymentmode]=gv&data[Tenders][1][amount]=1699
+2014-07-04T16:42:18+01:00 DEBUG (7): Invoice Number Exists
+2014-07-05T20:10:33+01:00 DEBUG (7): /service/transaction/define?data[Header][docno]=test1&data[Header][storeid]=33&data[Header][cashier]=cequity&data[Header][customerid]=9&data[Header][datetime]=12%2F08%2F2013+20%3A35&data[Header][terminal]=T101&data[Header][mobileno]=8790523012&data[Header][redeempoints]=0&data[Header][otp]=&data[Header][Type]=sales&data[Items][0][sku]=3596651891236&data[Items][0][quantity]=1&data[Items][1][sku]=3596651661914&data[Items][1][quantity]=1&data[Tenders][0][paymentmode]=cod&data[Tenders][0][amount]=1199&data[Tenders][1][paymentmode]=gv&data[Tenders][1][amount]=1699
+2014-07-05T20:11:57+01:00 DEBUG (7): /service/transaction/define?data[Header][docno]=test1&data[Header][storeid]=33&data[Header][cashier]=cequity&data[Header][customerid]=9&data[Header][datetime]=12%2F08%2F2013+20%3A35&data[Header][terminal]=T101&data[Header][mobileno]=8790523012&data[Header][redeempoints]=0&data[Header][otp]=&data[Header][Type]=sales&data[Items][0][sku]=3596651891236&data[Items][0][quantity]=1&data[Items][1][sku]=3596651661914&data[Items][1][quantity]=1&data[Tenders][0][paymentmode]=cod&data[Tenders][0][amount]=1199&data[Tenders][1][paymentmode]=gv&data[Tenders][1][amount]=1699
+2014-07-05T20:14:07+01:00 DEBUG (7): /service/transaction/define?data[Header][docno]=test1&data[Header][storeid]=33&data[Header][cashier]=cequity&data[Header][customerid]=9&data[Header][datetime]=12%2F08%2F2013+20%3A35&data[Header][terminal]=T101&data[Header][mobileno]=8790523012&data[Header][redeempoints]=0&data[Header][otp]=&data[Header][Type]=sales&data[Items][0][sku]=3596651891236&data[Items][0][quantity]=1&data[Items][1][sku]=3596651661914&data[Items][1][quantity]=1&data[Tenders][0][paymentmode]=cod&data[Tenders][0][amount]=1199&data[Tenders][1][paymentmode]=gv&data[Tenders][1][amount]=1699
+2014-07-05T20:14:07+01:00 DEBUG (7): Invoice Number Exists
+2014-07-05T20:15:05+01:00 DEBUG (7): /service/transaction/define?data[Header][docno]=test1&data[Header][storeid]=33&data[Header][cashier]=cequity&data[Header][customerid]=9&data[Header][datetime]=12%2F08%2F2013+20%3A35&data[Header][terminal]=T101&data[Header][mobileno]=8790523012&data[Header][redeempoints]=0&data[Header][otp]=&data[Header][Type]=sales&data[Items][0][sku]=3596651891236&data[Items][0][quantity]=1&data[Items][1][sku]=3596651661914&data[Items][1][quantity]=1&data[Tenders][0][paymentmode]=cod&data[Tenders][0][amount]=1199&data[Tenders][1][paymentmode]=gv&data[Tenders][1][amount]=1699
+2014-07-05T20:15:05+01:00 DEBUG (7): Invoice Number Exists
+2014-07-05T20:15:05+01:00 DEBUG (7): create()
+2014-07-05T20:15:05+01:00 DEBUG (7): Created Transaction - Status is 0
+2014-07-05T20:16:27+01:00 DEBUG (7): /service/transaction/define?data[Header][docno]=test1&data[Header][storeid]=33&data[Header][cashier]=cequity&data[Header][customerid]=9&data[Header][datetime]=12%2F08%2F2013+20%3A35&data[Header][terminal]=T101&data[Header][mobileno]=8790523012&data[Header][redeempoints]=0&data[Header][otp]=&data[Header][Type]=sales&data[Items][0][sku]=3596651891236&data[Items][0][quantity]=1&data[Items][1][sku]=3596651661914&data[Items][1][quantity]=1&data[Tenders][0][paymentmode]=cod&data[Tenders][0][amount]=1199&data[Tenders][1][paymentmode]=gv&data[Tenders][1][amount]=1699
+2014-07-05T20:16:27+01:00 DEBUG (7): Invoice Number Exists
+2014-07-05T20:16:27+01:00 DEBUG (7): create()
+2014-07-05T20:16:27+01:00 DEBUG (7): Created Transaction - Status is 0
+2014-07-05T20:21:18+01:00 DEBUG (7): /service/transaction/define?data[Header][docno]=test1&data[Header][storeid]=33&data[Header][cashier]=cequity&data[Header][customerid]=9&data[Header][datetime]=12%2F08%2F2013+20%3A35&data[Header][terminal]=T101&data[Header][mobileno]=8790523012&data[Header][redeempoints]=0&data[Header][otp]=&data[Header][Type]=sales&data[Items][0][sku]=3596651891236&data[Items][0][quantity]=1&data[Items][1][sku]=3596651661914&data[Items][1][quantity]=1&data[Tenders][0][paymentmode]=cod&data[Tenders][0][amount]=1199&data[Tenders][1][paymentmode]=gv&data[Tenders][1][amount]=1699
+2014-07-05T20:21:19+01:00 DEBUG (7): Invoice Number Exists
+2014-07-05T20:21:19+01:00 DEBUG (7): create()
+2014-07-05T20:21:19+01:00 DEBUG (7): Created Transaction - Status is 0
+2014-07-06T11:25:52+01:00 DEBUG (7): /service/transaction/bulk
+2014-07-06T11:25:52+01:00 DEBUG (7): /service/transaction/bulk
+2014-07-06T11:26:26+01:00 DEBUG (7): /service/transaction/bulk
+2014-07-06T11:26:48+01:00 DEBUG (7): /service/transaction/bulk
+2014-07-06T11:27:42+01:00 DEBUG (7): /service/transaction/bulk
+2014-07-06T11:28:28+01:00 DEBUG (7): /service/transaction/bulk
+2014-07-06T11:37:00+01:00 DEBUG (7): /service/transaction/bulk
+2014-07-06T11:37:07+01:00 DEBUG (7): /service/transaction/bulk?data[0][Header][docno]=00000P0002000000143&data[0][Header][storeid]=A0002&data[0][Header][cashier]=101&data[0][Header][amount]=1259&data[0][Header][customerid]=70983&data[0][Header][discount]=0&data[0][Header][datetime]=21/
+2014-07-06T11:37:07+01:00 DEBUG (7): Date Time cannot be parsed by strtotime()
+2014-07-06T11:37:07+01:00 DEBUG (7): create()
+2014-07-06T11:37:07+01:00 DEBUG (7): Created Transaction - Status is 0
+2014-07-06T11:41:08+01:00 DEBUG (7): /service/transaction/bulk?data[0][Header][docno]=00000P0002000000143&data[0][Header][storeid]=A0002&data[0][Header][cashier]=101&data[0][Header][amount]=1259&data[0][Header][customerid]=70983&data[0][Header][discount]=0&data[0][Header][datetime]=21/
+2014-07-06T11:41:08+01:00 DEBUG (7): Date Time cannot be parsed by strtotime()
+2014-07-06T11:41:08+01:00 DEBUG (7): create()
+2014-07-06T11:41:08+01:00 DEBUG (7): Created Transaction - Status is 0
+2014-07-06T11:42:09+01:00 DEBUG (7): /service/transaction/bulk?data[0][Header][docno]=00000P0002000000143&data[0][Header][storeid]=A0002&data[0][Header][cashier]=101&data[0][Header][amount]=1259&data[0][Header][customerid]=70983&data[0][Header][discount]=0&data[0][Header][datetime]=21/
+2014-07-06T11:42:09+01:00 DEBUG (7): Date Time cannot be parsed by strtotime()
+2014-07-06T11:42:09+01:00 DEBUG (7): create()
+2014-07-06T11:42:09+01:00 DEBUG (7): Created Transaction - Status is 0
+2014-07-06T11:42:12+01:00 DEBUG (7): /service/transaction/bulk?data[0][Header][docno]=00000P0002000000143&data[0][Header][storeid]=A0002&data[0][Header][cashier]=101&data[0][Header][amount]=1259&data[0][Header][customerid]=70983&data[0][Header][discount]=0&data[0][Header][datetime]=21/
+2014-07-06T11:42:12+01:00 DEBUG (7): Date Time cannot be parsed by strtotime()
+2014-07-06T11:42:12+01:00 DEBUG (7): create()
+2014-07-06T11:42:12+01:00 DEBUG (7): Created Transaction - Status is 0
+2014-07-06T11:42:52+01:00 DEBUG (7): /service/transaction/bulk?data[0][Header][docno]=00000P0002000000143&data[0][Header][storeid]=A0002&data[0][Header][cashier]=101&data[0][Header][amount]=1259&data[0][Header][customerid]=70983&data[0][Header][discount]=0&data[0][Header][datetime]=21/
+2014-07-06T11:42:52+01:00 DEBUG (7): Date Time cannot be parsed by strtotime()
+2014-07-06T11:42:52+01:00 DEBUG (7): create()
+2014-07-06T11:42:52+01:00 DEBUG (7): Created Transaction - Status is 0
+2014-07-07T16:46:04+01:00 DEBUG (7): /service/transaction/history
+2014-07-07T16:53:26+01:00 DEBUG (7): /service/transaction/history
+2014-07-07T16:53:47+01:00 DEBUG (7): /service/transaction/history?mobileno=0&customerid=0
+2014-07-07T17:01:37+01:00 DEBUG (7): /service/transaction/history
+2014-07-07T17:02:36+01:00 DEBUG (7): /service/transaction/history?mobileno=0
+2014-07-07T17:02:41+01:00 DEBUG (7): /service/transaction/history?
+2014-07-07T17:07:49+01:00 DEBUG (7): /service/transaction/history?
+2014-07-07T17:08:43+01:00 DEBUG (7): /service/transaction/history?customerid=9
+2014-07-07T17:08:48+01:00 DEBUG (7): /service/transaction/history?customerid=1
+2014-07-07T17:08:51+01:00 DEBUG (7): /service/transaction/history?customerid=2
